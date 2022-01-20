@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/monthly_expenser_react/static/css/main.8b127e45.chunk.css",
+    "main.js": "/monthly_expenser_react/static/js/main.e284d91a.chunk.js",
+    "main.js.map": "/monthly_expenser_react/static/js/main.e284d91a.chunk.js.map",
+    "runtime-main.js": "/monthly_expenser_react/static/js/runtime-main.7261399c.js",
+    "runtime-main.js.map": "/monthly_expenser_react/static/js/runtime-main.7261399c.js.map",
+    "static/js/2.98732272.chunk.js": "/monthly_expenser_react/static/js/2.98732272.chunk.js",
+    "static/js/2.98732272.chunk.js.map": "/monthly_expenser_react/static/js/2.98732272.chunk.js.map",
+    "index.html": "/monthly_expenser_react/index.html",
+    "static/css/main.8b127e45.chunk.css.map": "/monthly_expenser_react/static/css/main.8b127e45.chunk.css.map",
+    "static/js/2.98732272.chunk.js.LICENSE.txt": "/monthly_expenser_react/static/js/2.98732272.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7261399c.js",
+    "static/js/2.98732272.chunk.js",
+    "static/css/main.8b127e45.chunk.css",
+    "static/js/main.e284d91a.chunk.js"
+  ]
+}
