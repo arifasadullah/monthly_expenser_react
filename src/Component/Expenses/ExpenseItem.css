@@ -6,7 +6,7 @@
   padding: 0.5rem;
   margin: 1rem 0;
 
-  background-color: #7aeed1;
+  background-color: #a8ca6e;
 }
 
 .expense-item__description {
@@ -24,14 +24,14 @@
   font-size: 1rem;
   flex: 1;
   margin: 0 1rem;
-  color: rgb(50, 80, 107);
+  color: rgb(0, 0, 0);
 }
 
 .expense-item__price {
   font-size: 1rem;
   font-weight: bold;
   color: white;
-  background-color: #40005d;
+  background-color: #4c5d2d;
   border: 1px solid white;
   padding: 0.5rem;
   border-radius: 12px;
